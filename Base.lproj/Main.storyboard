@@ -437,7 +437,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="wfa-ql-KWf" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-602.39999999999998" y="143.47826086956522"/>
+            <point key="canvasLocation" x="-1222" y="143"/>
         </scene>
         <!--Popup2-->
         <scene sceneID="DKu-He-f14">
@@ -495,7 +495,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="oTh-uc-UZa" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="12" y="143.47826086956522"/>
+            <point key="canvasLocation" x="-602" y="143"/>
         </scene>
         <!--Popup3-->
         <scene sceneID="Xv2-TP-HbY">
@@ -553,7 +553,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Igi-c1-UcN" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="637.60000000000002" y="142.57871064467767"/>
+            <point key="canvasLocation" x="12" y="143"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="yl2-sM-qoP">
@@ -574,12 +574,12 @@
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="HuB-VB-40B" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="12" y="-1434"/>
+            <point key="canvasLocation" x="12" y="-1343"/>
         </scene>
         <!--Popup4-->
         <scene sceneID="SxZ-hL-NbF">
             <objects>
-                <viewController title="Popup4" id="HUD-et-Yev" customClass="PopUpViewController4" customModule="Jasmine_Cain" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Popup4" id="HUD-et-Yev" customClass="PopupViewController4" customModule="Jasmine_Cain" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="r9p-d0-gaT"/>
                         <viewControllerLayoutGuide type="bottom" id="7C8-ae-fHg"/>
@@ -615,7 +615,7 @@
                                             <color key="titleShadowColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
-                                            <action selector="DismissPopup4:" destination="HUD-et-Yev" eventType="touchUpInside" id="X4A-1h-Jix"/>
+                                            <action selector="DismissPopup4:" destination="HUD-et-Yev" eventType="touchUpInside" id="NEi-NU-TeD"/>
                                         </connections>
                                     </button>
                                     <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="JC-Pacer1.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="jBh-h0-aoX">
@@ -631,7 +631,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="kh3-cp-Na6" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1264.8" y="143.47826086956522"/>
+            <point key="canvasLocation" x="622" y="143"/>
         </scene>
         <!--Popup5-->
         <scene sceneID="eoJ-Eh-W1k">
@@ -689,7 +689,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="tZq-kH-vd6" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1880.8" y="142.57871064467767"/>
+            <point key="canvasLocation" x="1236" y="143"/>
         </scene>
         <!--Popup6-->
         <scene sceneID="54k-Js-YDQ">
@@ -748,7 +748,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="q1x-h9-zzz" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2525.5999999999999" y="143.47826086956522"/>
+            <point key="canvasLocation" x="1855" y="143"/>
         </scene>
     </scenes>
     <resources>
